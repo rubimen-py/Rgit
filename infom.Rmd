@@ -2,7 +2,9 @@
 title: "Git_Master"
 author: "David Felipe Rubio Méndez"
 date: "19/10/2020"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
